@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Crostan Modern';
+    src: url('fonts/CrostanModern.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
   font-family: sans-serif;
   margin: 0;
@@ -37,8 +44,6 @@ main {
     text-align: center;
 }
 
-.hero-text {
-    background-color: black;
-    padding: 2rem;
-    border-radius: 10px;
+.hero-text h1 {
+    font-family: 'Crostan Modern', sans-serif;
 }
