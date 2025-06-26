@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Crostan Modern';
-    src: url('fonts/CrostanModern.ttf') format('truetype');
+    font-family: 'Westlake';
+    src: url('fonts/Westlake.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -45,5 +45,5 @@ main {
 }
 
 .hero-text h1 {
-    font-family: 'Crostan Modern', sans-serif;
+    font-family: 'Westlake', sans-serif;
 }
